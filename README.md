@@ -27,6 +27,9 @@
     I enjoy experimenting with new technologies, languages and frameworks!   
   </li>
   <li>
+    My Favourite website is probably <a href ="https://www.isitchristmas.com"> isitchristmas.com </a>
+  </li>
+  <li>
     The ASCII Image was produced in my Image to Ascii GO CLI
   </li>
 </ul>
@@ -34,15 +37,21 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title = "PyTorch" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width = "40" height="40"/>
+<a href="https://www.python.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python" width="40" height="40"/></a>
+<a href ="https://pytorch.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title = "PyTorch" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width = "40" height="40"/></a>
+<a href="https://en.cppreference.com/w/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-title="C++" width = "40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" width = "40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width = "40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width = "40" height="40"/>
+title="C++" width = "40" height="40"/></a>
+<a href="https://go.dev/"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" width = "40" height="40"/></a>
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width = "40" height="40"/></a>
+<a href="https://www.linuxfoundation.org/">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width = "40" height="40"/></a>
           
           
                     
