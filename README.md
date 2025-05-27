@@ -1,5 +1,7 @@
 
 <div id="header" align="center">
+  
+![ASCII ME](https://github.com/user-attachments/assets/b6b4fd2d-4e8e-456f-a72b-64901d3e2a86)
 
   ### Hi there, I'm Nicholas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
@@ -23,6 +25,9 @@
   </li>
   <li>
     I enjoy experimenting with new technologies, languages and frameworks!   
+  </li>
+  <li>
+    The ASCII Image was produced in my Image to Ascii GO CLI
   </li>
 </ul>
 
