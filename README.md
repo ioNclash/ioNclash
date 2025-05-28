@@ -46,7 +46,7 @@
 <a href="https://en.cppreference.com/w/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 title="C++" width = "40" height="40"/></a>
-<a href="https://go.dev/"
+<a href="https://go.dev/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" width = "40" height="40"/></a>
 <a href="https://git-scm.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width = "40" height="40"/></a>
